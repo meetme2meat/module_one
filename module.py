@@ -1,4 +1,8 @@
 
+def main():
+	print("this is a module.py")
 
-print("this is module.py")
+
+if __name__ == "__main__":
+	main()
 
